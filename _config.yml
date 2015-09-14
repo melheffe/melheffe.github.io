@@ -1,8 +1,8 @@
 # Site settings
-title: Melheffe |
+title: Melheffe | Software Intelligence Consulting
 email: chris@melheffe.com
 description: "Development merges design to bring you ther best User Experience on top of a carefully elaborated piece of software with the latest technology available to create a perfect harmony between functionality and appearance."
 baseurl: ""
-url: "http://www.melheffe.com"
+url: "http://melheffe.github.io/"
 github_username:  melheffe
 
